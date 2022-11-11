@@ -28,13 +28,13 @@ function updateZip(zip_input) {
     });
 
     if(chapters_matched.length === 1)
-      window.location.href = "/chapters/" + chapters_matched[0]["email"];
+      window.location.href = "/chapters/" + chapters_matched[0]["chapter-url"];
 
     else if(chapters_matched.length > 1)
     {
       multi_chapter_output = "<ul>";
       chapters_matched.forEach(function(match) {
-        multi_chapter_output += "<li><a href=\"/chapters/" + match["email"] + "\">" + match["chapter-name"] + "</a></li>";
+        multi_chapter_output += "<li><a href=\"/chapters/" + match["chapter-url"] + "\">" + match["chapter-url"] + "</a></li>";
       });
       multi_chapter_output += "</ul>";
 

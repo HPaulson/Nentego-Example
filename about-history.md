@@ -2,57 +2,20 @@
 title: Lodge History
 layout: portal
 permalink: /history/
-banner: /img/portals/history-portal.jpg
 ---
 
-Unami Lodge, One and the Order of the Arrow were founded at Treasure Island Camp in 1915 by Dr. E. Urner Goodman and Carroll A. Edson. Originally known as the Wimachtendienk Society, the Order of the Arrow has grown from a fledgling organization of twenty-seven members that first year, to a strong group of thousands of Scouts and Scouters dedicated to serving Scouting around the country over the last 104 years.
+On July 29, 1925, an Order of the Arrow charter was granted to Unalachtico Lodge of the Del-Mar-Va Council. The Lodge drew its membership from Camp Rodney and was named after the Unalachtigo Lenape (or Delaware Indians) who had inhabited the area. The totem was the turkey. By the late 1930s, the lodge had become inactive and was disbanded.
 
-As the first lodge, Unami has a long and storied past that we love to share. Take a minute to explore the lists of our past lodge chiefs, lodge advisers, Vigil Honor members, and lodge award recipients below. A history of Unami Lodge (1915-Present) and Delmont Lodge 43 (1929-1996) is also located on this page. If you have questions or wish to contribute information or pictures about the history of our lodge, please contact [history@unamilodge.org](/contact?recipient=history)
+Through the efforts of the Delmont Lodge #43 of the Valley Forge Council, Lodge #20 was reorganized on June 22, 1957. The new name chosen by the membership was Nentego, a derivation of the name of one of the major Delaware Tribes, which means, "People from across the water." Delmont Lodge inducted two youth from each district and the council professional staff to provide the initial core of Nentego Lodge. The Lodge totem is the Rockfish, which can be found in the Chesapeake Bay. The lodge colors are blue, for the water of the Chesapeake, and grey, for the Rockfish. The first lodge flap appeared in 1957, and its basic design remains in use today.
 
 <table class="table">
   <tr>
-    <td class="align-middle"><h5 class="my-0">Unami Lodge Historical Narrative</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/unami">Read More</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Delmont Lodge Historical Narrative</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/delmont">Read More</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Past Unami Lodge Chiefs</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/unami-chiefs">Read More</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Past Delmont Lodge Chiefs</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/delmont-chiefs">Read More</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Past Lodge Advisers</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/lodge-advisers">Read More</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Vigil Honor Members</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="#">Coming Soon!</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Thomas J. Richards Outstanding Service Award Recipients</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/youth-osa">Read More</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Dave Fortunato Outstanding Service Award</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/adult-osa">Read More</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Charles J. "Chuck" Benshetler Spirit of Camp Leadership Award Recipients</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/camp-leadership">Read More</a></td>
+    <td class="align-middle"><h5 class="my-0">Previous Nentego Lodge Chiefs</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/chiefs">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Founder's Award Recipients</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/founders">Read More</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Green Turtle Award Recipients</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/green-turtle">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Centurion Award Recipients</h5></td>
@@ -63,11 +26,7 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/dsa">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Unami Lodge Flap History</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://patchvault.org/lodges/1a-unami/issues">Visit PatchVault</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Unami Lodge History Podcast</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/podcast">Listen Now</a></td>
+    <td class="align-middle"><h5 class="my-0">Nentego Lodge Flap History</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://patchvault.org/lodges/20b-nentego">Visit PatchVault</a></td>
   </tr>
 </table>

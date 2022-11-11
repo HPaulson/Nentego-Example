@@ -1,7 +1,7 @@
-name: Unami Lodge, One
-title: Unami Lodge, One
+name: Nentego Lodge 20
+title: Nentego Lodge 20
 logo: "/img/logo.png"
-description: "As the founding lodge of the Order of the Arrow, Unami Lodge, One serves as the chapter of Scouting’s National Honor Society for the Cradle of Liberty Council. Unami exists to serve the units, community, and camps of the Cradle of Liberty."
+description: "Nentego Lodge serves as the chapter of Scouting’s National Honor Society for the Del-Mar-Va Council to serve our council's units, community, and camps."
 
 # alert:
 #   text: # (Here's a place you can put text for a site wide alert)
@@ -18,8 +18,6 @@ baseurl:
 picture:
   nomarkdown: false
 
-recaptcha: 6LdlwroUAAAAAKKNaJmAUiIKTRFYNk_qVpy9b5Fo
-
 permalink: /news/:title
 
 pagination:
@@ -34,5 +32,5 @@ pagination:
 page_gen:
   - data: 'chapters'
     template: 'chapters'
-    name: 'email'
+    name: 'chapter-name'
     dir: 'chapters'

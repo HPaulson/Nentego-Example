@@ -1,9 +1,5 @@
-# UnamiLodge.org
-A Jekyll based website for communicating with Unami Lodge, One members and the greater community.
-
-* Production branch hosted at: [https://unamilodge.org](https://unamilodge.org)
-* Development branch hosted at: [https://dev.unamilodge.org](https://dev.unamilodge.org)
-
+# Nentego Lodge
+A Jekyll based website for communicating with Nentego Lodge members and the greater community.
 This site is built on our servers by Jekyll. If you are not familiar with Jekyll we recommend [starting with Jekyll Docs at jekyllrb.com/docs/](https://jekyllrb.com/docs/).
 
 ## Getting Started
@@ -53,3 +49,5 @@ Items we are still working on
   - Fine tune the quality of images displayed on the site - balance best compression, load times, and appearance.
   - Add alt tags for better accessibility and SEO.
  
+Forked from Unami Lodge, One
+https://github.com/colbsa/UnamiLodge.org

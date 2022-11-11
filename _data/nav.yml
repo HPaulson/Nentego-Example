@@ -4,7 +4,7 @@
   dropdownitems:
   - title: Lodge History
     url: /history
-  - title: Rules & Procedures
+  - title: Code of Conduct
     url: /rules
   - title: Lodge Calendar
     url: /calendar
@@ -16,16 +16,8 @@
     url: /officers
   - title: Contact List
     url: /contactlist
-  - title: Award Nominations
-    url: /awards
-  - title: OA High Adventure Scholarship
-    url: /scholarship
-  - title: LEC Communication Tools KB
-    url: /kb
 - title: Membership
   dropdownitems:
-  - title: Pay My Dues
-    url: /dues
   - title: Elected Candidates
     url: /electedcandidates
   - title: New Members
@@ -36,27 +28,7 @@
     url: /parentinfo
 - title: Chapters
   dropdownitems:
-  - title: Baden Powell
-    url: /chapters/badenpowell
-  - title: Conestoga
-    url: /chapters/conestoga
-  - title: Constellation
-    url: /chapters/constellation
-  - title: Continental
-    url: /chapters/continental
-  - title: General Nash
-    url: /chapters/generalnash
-  - title: Lafayette
-    url: /chapters/lafayette
-  - title: Minquas
-    url: /chapters/minquas
-  - title: Northern
-    url: /chapters/northern
-  - title: Roosevelt
-    url: /chapters/roosevelt
-  - title: Triune
-    url: /chapters/triune
-  - title: Washington
-    url: /chapters/washington
+  - title: Powder Mill
+    url: /chapters/powder-mill
 - title: News
   url: /news
